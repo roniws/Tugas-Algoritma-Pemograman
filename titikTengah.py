@@ -9,4 +9,4 @@ for j in range (len(split_y)):
     split_y[j] = int(split_y[j])
 T_absis = (split_x[0]+split_y[1])/2
 T_ordinat = (split_x[1]+split_y[1])/2
-print('nilai titik tengahnya (T) adalah : %d,%d'%(T_absis,T_ordinat))
+print(f"nilai titik tengahnya (T) adalah : {T_absis},{T_ordinat}")
