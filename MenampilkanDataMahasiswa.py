@@ -1,27 +1,28 @@
 mhs1 = {
-    'nama' : 'roni wahyudi setiawan',
-    'nim' : 7120210042,
-    'thn_lahir' : 1988
+    'nama':'roni wahyudi setiawan',
+    'nim':7120210042,
+    'thn_lahir': 1988,
 }
+
 mhs2 = {
-    'nama' : 'joni dalbo',
-    'nim' : 4120232,
-    'thn_lahir ' :1989
+    'nama':'joni dalbo',
+    'nim':4120232,
+    'thn_lahir':1989
 }
 mhs3 = {
-    'nama' : 'johan prastyo',
-    'nim' : 4120233,
-    'thn_lahir' : 1990
+    'nama':'johan prastyo',
+    'nim':4120233,
+    'thn_lahir':1990
 }
 mhs4 = {
-    'nama' : 'Dini',
-    'nim' : 4120234,
-    'thn_lahir' : 1990
+    'nama':'Dini',
+    'nim':4120234,
+    'thn_lahir':1991
 }
 mhs5 = {
-    'nama' : 'Andika',
-    'nim' : 4120235,
-    'thn_lahir' : 1990
+    'nama':'Andika',
+    'nim':4120235,
+    'thn_lahir':1992
 }
 
 usia1 = 2021 - mhs1['thn_lahir']
@@ -29,7 +30,6 @@ usia2 = 2021 - mhs2['thn_lahir']
 usia3 = 2021 - mhs3['thn_lahir']
 usia4 = 2021 - mhs4['thn_lahir']
 usia5 = 2021 - mhs5['thn_lahir']
-
 print(f"Mahasiswa ke 1\nNAMA : {mhs1['nama']}\nNIM :{mhs1['nim']}\nTAHUN LAHIR : {mhs1['thn_lahir']}\nUSIA : {usia1}")
 print(f"Mahasiswa ke 2\nNAMA : {mhs2['nama']}\nNIM :{mhs2['nim']}\nTAHUN LAHIR : {mhs2['thn_lahir']}\nUSIA : {usia2}")
 print(f"Mahasiswa ke 3\nNAMA : {mhs3['nama']}\nNIM :{mhs3['nim']}\nTAHUN LAHIR : {mhs3['thn_lahir']}\nUSIA : {usia3}")
