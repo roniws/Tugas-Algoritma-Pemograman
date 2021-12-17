@@ -1,7 +1,7 @@
 mhs1 = {
     'nama':'roni wahyudi setiawan',
     'nim':7120210042,
-    'thn_lahir': 1988,
+    'thn_lahir':1988,
 }
 
 mhs2 = {
