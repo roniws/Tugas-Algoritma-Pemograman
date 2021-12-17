@@ -1,4 +1,4 @@
-x = input("nilai A.absis , A.ordinat: ")
+x = input("nilai A.absis , A.ordinat:")
 y = input("nilai B.absis, B.ordinat: ")
 split_x = x.split(',')
 split_y = y.split(',')
