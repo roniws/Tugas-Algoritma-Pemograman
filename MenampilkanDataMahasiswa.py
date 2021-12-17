@@ -32,6 +32,6 @@ usia5 = 2021 - mhs5['thn_lahir']
 
 print(f"Mahasiswa ke 1\nNAMA : {mhs1['nama']}\nNIM :{mhs1['nim']}\nTAHUN LAHIR : {mhs1['thn_lahir']}\nUSIA : {usia1}")
 print(f"Mahasiswa ke 2\nNAMA : {mhs2['nama']}\nNIM :{mhs2['nim']}\nTAHUN LAHIR : {mhs2['thn_lahir']}\nUSIA : {usia2}")
-print(f"Mahasiswa ke 3\nNAMA : {mhs3['nama']}\nNIM :{mhs3['nim']}\nTAHUN LAHIR : {mhs3['thn_lahir']}\nUSIA : {usia2}")
-print(f"Mahasiswa ke 4\nNAMA : {mhs4['nama']}\nNIM :{mhs4['nim']}\nTAHUN LAHIR : {mhs4['thn_lahir']}\nUSIA : {usia2}")
-print(f"Mahasiswa ke 5\nNAMA : {mhs5['nama']}\nNIM :{mhs5['nim']}\nTAHUN LAHIR : {mhs5['thn_lahir']}\nUSIA : {usia2}")
+print(f"Mahasiswa ke 3\nNAMA : {mhs3['nama']}\nNIM :{mhs3['nim']}\nTAHUN LAHIR : {mhs3['thn_lahir']}\nUSIA : {usia3}")
+print(f"Mahasiswa ke 4\nNAMA : {mhs4['nama']}\nNIM :{mhs4['nim']}\nTAHUN LAHIR : {mhs4['thn_lahir']}\nUSIA : {usia4}")
+print(f"Mahasiswa ke 5\nNAMA : {mhs5['nama']}\nNIM :{mhs5['nim']}\nTAHUN LAHIR : {mhs5['thn_lahir']}\nUSIA : {usia5}")
