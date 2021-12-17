@@ -1,28 +1,27 @@
 mhs1 = {
-    'nama':'roni wahyudi setiawan',
-    'nim':4120231,
-    'thn_lahir':1988
+    'nama' : 'roni wahyudi setiawan',
+    'nim' : 7120210042,
+    'thn_lahir' : 1988
 }
 mhs2 = {
-    'nama':'joni dalbo',
-    'nim':4120232,
-    'thn_lahir':1989
+    'nama' : 'joni dalbo',
+    'nim' : 4120232,
+    'thn_lahir ' :1989
 }
 mhs3 = {
-    'nama':'johan prastyo',
-    'nim':4120233,
-    'thn_lahir':1990
+    'nama' : 'johan prastyo',
+    'nim' : 4120233,
+    'thn_lahir' : 1990
 }
-usia = 2021 - mhs1['thn_lahir']
 mhs4 = {
-    'nama':'Dini',
-    'nim':4120234,
-    'thn_lahir':1990
+    'nama' : 'Dini',
+    'nim' : 4120234,
+    'thn_lahir' : 1990
 }
 mhs5 = {
-    'nama':'Andika',
-    'nim':4120235,
-    'thn_lahir':1990
+    'nama' : 'Andika',
+    'nim' : 4120235,
+    'thn_lahir' : 1990
 }
 
 usia1 = 2021 - mhs1['thn_lahir']
